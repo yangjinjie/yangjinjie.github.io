@@ -1,6 +1,12 @@
-# hexo.yangjinjie.github.io
+# hexo blog
 
 生成静态文件, 部署到仓库`yangjinjie.github.io`, `master分支`
+
+## 克隆源代码
+
+```shell
+git clone -b source-code git@github.com:yangjinjie/yangjinjie.github.io.git
+```
 
 ## 安装依赖
 
