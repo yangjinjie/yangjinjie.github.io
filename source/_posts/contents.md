@@ -18,6 +18,6 @@ Welcome !
 
 ### [java_notes](https://yangjinjie.github.io/java_notes/)
 
-## Read the Docs
+## Read the Docs方式
 
 [notes](http://notes.yangjinjie.xyz)
