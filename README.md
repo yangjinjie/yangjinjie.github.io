@@ -29,4 +29,7 @@ hexo clean
 hexo generate
 # 部署
 hexo deploy
+
+# 简写
+hexo d -g
 ```
