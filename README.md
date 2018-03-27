@@ -6,6 +6,9 @@
 
 ```shell
 git clone -b source-code git@github.com:yangjinjie/yangjinjie.github.io.git
+
+# 克隆最后一次提交
+git clone --depth 1 -b source-code git@github.com:yangjinjie/yangjinjie.github.io.git
 ```
 
 ## 安装依赖
