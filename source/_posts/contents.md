@@ -10,14 +10,16 @@ Welcome !
 
 ---
 
-## GitHub Pages
+## notes在线阅读
+
+[notes](http://notes.yangjinjie.xyz)
+
+## GitHub Pages方式
+
+最后更新时间 2018-05-22, 不再更新, 使用上面的方式访问
 
 ### [notes](https://yangjinjie.github.io/notes/)
 
 ### [python_notes](https://yangjinjie.github.io/python_notes/)
 
 ### [java_notes](https://yangjinjie.github.io/java_notes/)
-
-## Read the Docs方式
-
-[notes](http://notes.yangjinjie.xyz)
